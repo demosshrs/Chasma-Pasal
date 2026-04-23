@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120">
+  <rect width="220" height="120" fill="#f0f4ff" rx="10"/>
+  <path d="M12 38 Q55 75 98 38" stroke="#1a1a1a" stroke-width="3" fill="rgba(26,26,26,0.07)"/>
+  <path d="M122 38 Q165 75 208 38" stroke="#1a1a1a" stroke-width="3" fill="rgba(26,26,26,0.07)"/>
+  <line x1="98" y1="48" x2="122" y2="48" stroke="#1a1a1a" stroke-width="2.5"/>
+  <line x1="0" y1="42" x2="12" y2="42" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="208" y1="42" x2="220" y2="42" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- nose bridge pin -->
+  <circle cx="110" cy="52" r="2.5" fill="#1a1a1a" opacity="0.4"/>
+</svg>
